@@ -44,6 +44,7 @@ The following table compares the leading SaaS publishing APIs, optimized for rel
 | :--- | :--- | :--- | :--- |
 | **[LinkedIn](https://www.linkedin.com/)** | ~$20B Rev / $3T+ Cap | Partner-gated | 5,000 calls/day |
 | **[X (Twitter)](https://x.com/)** | ~$2.5B Rev / ~$20B Val | Pay-per-use | None (API only) |
+| **[Xquik](https://xquik.com/)** | X automation API platform | From $20/mo + PAYG | No public free tier |
 | **[WordPress.com](https://wordpress.com/)** | ~$1B Rev / ~$7.5B Val | $4/mo+ | REST API Included |
 | **[Beehiiv](https://www.beehiiv.com/)** | ~$50M Rev / ~$225M Val | $49/mo+ | 2,500 Subscribers |
 | **[Hashnode](https://hashnode.com/)** | ~$71M Rev (Est) | $7/mo+ | No API on Free |
@@ -60,6 +61,7 @@ The following table compares the leading SaaS publishing APIs, optimized for rel
 ### ⚡ Advanced & Specialized Platforms
 - 🛡️ **[Buffer API](https://buffer.com/)**: Enterprise-grade social media management for scaling agents.
 - 🦅 **[Hootsuite](https://www.hootsuite.com/)**: Comprehensive platform for large-scale enterprise social operations.
+- ⚡ **[Xquik](https://xquik.com/)**: X automation API with REST endpoints, webhooks, and MCP tools for agent publishing workflows.
 - 🔗 **[Blotato](https://blotato.com/) / [Postproxy](https://postproxy.com/)**: Middleware layers designed specifically to consolidate social API costs for high-volume agents.
 
 ---
