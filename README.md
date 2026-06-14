@@ -23,24 +23,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Publishing APIs for Agents)
 
-- **[Publora](https://publora.com/)**  
-  Agent-optimized publishing API for seamless multi-platform content distribution and scheduling.
+The following table compares popular SaaS publishing APIs for agents, focusing on their pricing models and free tier availability as of 2026.
 
-- **[Zernio](https://zernio.com/)**  
-  Intelligent publishing platform designed for AI agents with advanced content routing and analytics.
-
-- **[SocialAPI.ai](https://socialapi.ai/)**  
-  Unified API layer for AI agents to publish across social networks with natural language support.
-
-- **[Ayrshare](https://www.ayrshare.com/)**  
-  Popular social media management API with strong agent integration and multi-account publishing.
-
-- **[Postiz](https://postiz.com/)**  
-  AI-enhanced publishing API focused on scheduling, analytics, and autonomous content distribution.
+| SaaS Product | Pricing (Paid Tiers) | Free Tier Limit |
+| :--- | :--- | :--- |
+| **[Publora](https://publora.com/)** | $15/mo (Pro) | 1 social account, 15 posts/mo (all platforms except X) |
+| **[Zernio](https://zernio.com/)** | $6/mo per account (after first 2) | First 2 social accounts free; unlimited posts |
+| **[SocialAPI.ai](https://socialapi.ai/)** | $29/mo (Side Hustle) | 2 brands, 10 posts/mo, 50 interactions/mo |
+| **[Ayrshare](https://www.ayrshare.com/)** | $149/mo (Premium) | 20 posts/mo (Testing only, branded posts) |
+| **[Postiz (Cloud)](https://postiz.com/)** | $29/mo (Standard) | 7-day free trial (Self-hosted version is free) |
+| **[Beehiiv](https://www.beehiiv.com/)** | $49/mo (Scale) | Up to 2,500 subscribers; API access included |
+| **[Mirror.xyz](https://mirror.xyz/)** | 2.5% fee on NFT sales | 100% Free publishing; no gas fees |
+| **[Paragraph.xyz](https://paragraph.xyz/)** | $0.27 per 1,000 requests | 1,000 requests (one-time) |
+| **[Ghost (Pro)](https://ghost.org/)** | $29/mo (Publisher) | 14-day Pro Trial (Self-hosted is free) |
+| **[Dev.to](https://dev.to/)** | N/A | Free; no strict publishing limits |
+| **[WordPress.com](https://wordpress.com/)** | $4/mo (Personal) | Free REST API access included |
+| **[Hashnode](https://hashnode.com/)** | $7/mo (Pro) | None (API requires Pro) |
+| **[X (Twitter)](https://x.com/)** | $0.01/post ($0.20 for URL posts) | None (Pay-per-use only) |
+| **[LinkedIn](https://www.linkedin.com/)** | Partner-gated ($50k+) | 5,000 calls/day (Share to own feed only) |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Buffer API, Hootsuite, and various agent-native publishing layers.
+- **Buffer API**: Enterprise-focused social media management.
+- **Hootsuite**: Robust multi-platform publishing for large teams.
+- **Blotato / Postproxy**: Middleware wrappers designed to consolidate costs and provide unified agent-friendly interfaces.
 
 ## Open-Source GitHub Projects
 
