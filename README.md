@@ -25,22 +25,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 The following table compares popular SaaS publishing APIs for agents, focusing on their pricing models and free tier availability as of 2026.
 
-| SaaS Product | Pricing (Paid Tiers) | Free Tier Limit |
-| :--- | :--- | :--- |
-| **[Publora](https://publora.com/)** | $15/mo (Pro) | 1 social account, 15 posts/mo (all platforms except X) |
-| **[Zernio](https://zernio.com/)** | $6/mo per account (after first 2) | First 2 social accounts free; unlimited posts |
-| **[SocialAPI.ai](https://socialapi.ai/)** | $29/mo (Side Hustle) | 2 brands, 10 posts/mo, 50 interactions/mo |
-| **[Ayrshare](https://www.ayrshare.com/)** | $149/mo (Premium) | 20 posts/mo (Testing only, branded posts) |
-| **[Postiz (Cloud)](https://postiz.com/)** | $29/mo (Standard) | 7-day free trial (Self-hosted version is free) |
-| **[Beehiiv](https://www.beehiiv.com/)** | $49/mo (Scale) | Up to 2,500 subscribers; API access included |
-| **[Mirror.xyz](https://mirror.xyz/)** | 2.5% fee on NFT sales | 100% Free publishing; no gas fees |
-| **[Paragraph.xyz](https://paragraph.xyz/)** | $0.27 per 1,000 requests | 1,000 requests (one-time) |
-| **[Ghost (Pro)](https://ghost.org/)** | $29/mo (Publisher) | 14-day Pro Trial (Self-hosted is free) |
-| **[Dev.to](https://dev.to/)** | N/A | Free; no strict publishing limits |
-| **[WordPress.com](https://wordpress.com/)** | $4/mo (Personal) | Free REST API access included |
-| **[Hashnode](https://hashnode.com/)** | $7/mo (Pro) | None (API requires Pro) |
-| **[X (Twitter)](https://x.com/)** | $0.01/post ($0.20 for URL posts) | None (Pay-per-use only) |
-| **[LinkedIn](https://www.linkedin.com/)** | Partner-gated ($50k+) | 5,000 calls/day (Share to own feed only) |
+| SaaS Product | Company Scale (Revenue/Valuation) | Pricing (Paid Tiers) | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[LinkedIn](https://www.linkedin.com/)** | ~$20B Rev / $3T+ Mkt Cap (MSFT) | Partner-gated ($50k+) | 5,000 calls/day (Share to own feed only) |
+| **[X (Twitter)](https://x.com/)** | ~$2.5B Rev / ~$20B Val | $0.01/post ($0.20 for URL posts) | None (Pay-per-use only) |
+| **[WordPress.com](https://wordpress.com/)** | ~$1B Rev / ~$7.5B Val (Automattic) | $4/mo (Personal) | Free REST API access included |
+| **[Beehiiv](https://www.beehiiv.com/)** | ~$50M Rev / ~$225M Val | $49/mo (Scale) | Up to 2,500 subscribers; API access included |
+| **[Hashnode](https://hashnode.com/)** | ~$71M Rev (Est) | $7/mo (Pro) | None (API requires Pro) |
+| **[Mirror.xyz](https://mirror.xyz/)** | ~$425M Val (Owned by Paragraph) | 2.5% fee on NFT sales | 100% Free publishing; no gas fees |
+| **[Paragraph.xyz](https://paragraph.xyz/)** | ~$50M Val (Est) | 3% Fee on Subs | 1,000 requests (one-time) |
+| **[Ghost (Pro)](https://ghost.org/)** | ~$15M Rev | $29/mo (Publisher) | 14-day Pro Trial (Self-hosted is free) |
+| **[Dev.to](https://dev.to/)** | Acquired (Feb '26) | N/A | Free; no strict publishing limits |
+| **[Ayrshare](https://www.ayrshare.com/)** | Stable / Unfunded | $149/mo (Premium) | 20 posts/mo (Testing only, branded posts) |
+| **[Postiz (Cloud)](https://postiz.com/)** | Early Stage | $29/mo (Standard) | 7-day free trial (Self-hosted version is free) |
+| **[Zernio](https://zernio.com/)** | ~$1M ARR | $6/mo per account (after first 2) | First 2 social accounts free; unlimited posts |
+| **[SocialAPI.ai](https://socialapi.ai/)** | Early Stage | $29/mo (Side Hustle) | 2 brands, 10 posts/mo, 50 interactions/mo |
+| **[Publora](https://publora.com/)** | Early Stage | $15/mo (Pro) | 1 social account, 15 posts/mo (all platforms except X) |
+
 
 ### Advanced & Specialized Platforms
 
