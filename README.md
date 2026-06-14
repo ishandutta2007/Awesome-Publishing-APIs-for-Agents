@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Awesome Publishing APIs for AI Agents Banner" width="800">
+  <img src="./banner.svg" alt="Awesome Publishing APIs for AI Agents Banner" width="800">
 
   # 🤖 Awesome Publishing APIs for Agents
   
