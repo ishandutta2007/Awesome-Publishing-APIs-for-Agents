@@ -53,35 +53,42 @@ The following table compares popular SaaS publishing APIs for agents, focusing o
 
 ### Dedicated Publishing APIs & Agent Tools
 
-- **[n8n](https://github.com/n8n-io/n8n)**  
+The following open-source projects are sorted by their GitHub star counts as of 2026.
+
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Leading open-source workflow automation tool with extensive social media nodes. Perfect for building custom publishing APIs and agent-driven content distribution pipelines.
 
-- **[Huginn](https://github.com/huginn/huginn)**  
-  Open-source personal automation agent that can monitor triggers and autonomously publish to multiple platforms.
-
-- **[Social-Posters](https://github.com/search?q=social+media+poster+open+source)**  
-  Multiple community open-source libraries and APIs for publishing to Twitter/X, LinkedIn, Facebook, Instagram, and more.
-
-- **[Mastodon.py / Fediverse Tools](https://github.com/halcy/Mastodon.py)**  
-  Robust open-source Python library for posting to Mastodon and other fediverse platforms, easily integrated into AI agents.
-
-- **[Tweety / Twitter API Alternatives](https://github.com/search?q=twitter+api+open+source)**  
-  Open-source clients and wrappers for posting to X/Twitter and other social networks without official API restrictions.
-
-- **[LangGraph Publishing Agents](https://github.com/langchain-ai/langgraph)**  
-  Stateful multi-agent framework for building intelligent publishing agents with scheduling, content review, and multi-platform routing.
-
-- **[CrewAI Publishing Crews](https://github.com/crewAIInc/crewAI)**  
-  Role-based multi-agent orchestration with templates for content creation → approval → publishing workflows.
-
-- **[OpenWebUI + Publishing Extensions](https://github.com/open-webui/open-webui)**  
+- **[OpenWebUI](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
   Local LLM interface with extensions for building autonomous publishing assistants.
 
-- **[Phidata Publishing Agents](https://github.com/phidatahq/phidata)**  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+  Role-based multi-agent orchestration with templates for content creation → approval → publishing workflows.
+
+- **[Huginn](https://github.com/huginn/huginn)** [![Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
+  Open-source personal automation agent that can monitor triggers and autonomously publish to multiple platforms.
+
+- **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** [![Stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers)  
   Framework for building production agents with memory and tools optimized for content publishing and scheduling.
 
-- **[Node-RED Social Nodes](https://github.com/node-red/node-red)**  
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  Stateful multi-agent framework for building intelligent publishing agents with scheduling, content review, and multi-platform routing.
+
+- **[Postiz](https://github.com/gitroomhq/postiz-app)** [![Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social&color=white)](https://github.com/gitroomhq/postiz-app/stargazers)  
+  AI-enhanced publishing API focused on scheduling, analytics, and autonomous content distribution.
+
+- **[Node-RED](https://github.com/node-red/node-red)** [![Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
   Flow-based programming tool with community nodes for social media publishing and automation.
+
+- **[Mastodon.py](https://github.com/halcy/Mastodon.py)** [![Stars](https://img.shields.io/github/stars/halcy/Mastodon.py?style=social&color=white)](https://github.com/halcy/Mastodon.py/stargazers)  
+  Robust open-source Python library for posting to Mastodon and other fediverse platforms, easily integrated into AI agents.
+
+### Community Search & Utility Tools
+
+- **[Social-Posters](https://github.com/search?q=social+media+poster+open+source)** (Search)  
+  Multiple community open-source libraries and APIs for publishing to Twitter/X, LinkedIn, Facebook, Instagram, and more.
+
+- **[Tweety / Twitter API Alternatives](https://github.com/search?q=twitter+api+open+source)** (Search)  
+  Open-source clients and wrappers for posting to X/Twitter and other social networks without official API restrictions.
 
 ### Additional Strong Open-Source Options
 
