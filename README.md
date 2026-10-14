@@ -57,6 +57,7 @@ The following table compares the leading SaaS publishing APIs, optimized for rel
 | **[Zernio](https://zernio.com/)** | ~$1M ARR | $6/account+ | **First 2 Accounts FREE** |
 | **[SocialAPI.ai](https://socialapi.ai/)** | Early Stage | $29/mo+ | 10 posts/mo |
 | **[Publora](https://publora.com/)** | Early Stage | $15/mo+ | 15 posts/mo |
+| **[Multi Upload Tool](https://multi-upload-tool.com/)** | Early Stage | $14.99/mo+ | 2 accounts, 13 uploads/mo |
 
 ### ⚡ Advanced & Specialized Platforms
 - 🛡️ **[Buffer API](https://buffer.com/)**: Enterprise-grade social media management for scaling agents.
